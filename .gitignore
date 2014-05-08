@@ -1,4 +1,8 @@
 .idea
+<<<<<<< HEAD
 node_modules
 public
 MultiVision
+=======
+node_modules
+>>>>>>> 2a56116f3b147b69d55f15545c12843723274737

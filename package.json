@@ -17,6 +17,7 @@
     "mongodb": "~1.3.23",
     "xml2js": "~0.4.2",
     "mongoose": "~3.8.7",
+<<<<<<< HEAD
     "requirejs": "~2.1.11",
     "stylus": "^0.44.0"
   },
@@ -27,6 +28,11 @@
   "devDependencies": {
     "bower": "^1.3.3"
   },
+=======
+    "requirejs": "~2.1.11"
+  },
+  "devDependencies": {},
+>>>>>>> 2a56116f3b147b69d55f15545c12843723274737
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

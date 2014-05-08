@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var express = require('express'),
     stylus = require('stylus'),
     mongoose = require('mongoose');
@@ -58,3 +59,11 @@ app.get('*', function(req, res) {
 var port = 80;
 app.listen(port);
 console.log('Listening on port ' + port + '...');
+=======
+/**
+ * Created by oleg on 06.05.14.
+ */
+sdsdsd
+sdsdsdffghg
+sdsdsd
+>>>>>>> 2a56116f3b147b69d55f15545c12843723274737
